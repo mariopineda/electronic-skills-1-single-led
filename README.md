@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Electronic Skills 1: Single LED
+In this assignment you learn how to use a breadboard for creating a simple circuit with a single LED.
 
-You can use the [editor on GitHub](https://github.com/mariopineda/electronic-skills-1-single-led/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mariopineda/electronic-skills-1-single-led/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Instructions
+Read all of the instructions before starting the assignment.
+1. Start by watching the following videos 
+  * Introduction to breadboards: https://youtu.be/oiqNaSPTI7w 
+  * Introduction to LEDs: https://youtu.be/GbyxKEXU5iQ  
+  * Introduction to resistors: https://youtu.be/D04p1FjgtIE  
+1. Get the following materials:
+  * A breadboard (from your teacher)
+  * A LEDs
+  * A 330 Ohm resistor
+  * Hookup wire
+  * Small ziplock bag - for storing your electronic components  
+1. For this assignment you will also need a DMM and a functional battery pack or power supply.
+1. Label your breadboard with your name using a piece of masking tape (do NOT write directly on the breadboard and do NOT peel off the sticky backing on the breadboard).
+1. Using a DMM test your battery pack, resistor and LED. 
+1. Prepare your DMM by attaching leads to the probes (See picture).
